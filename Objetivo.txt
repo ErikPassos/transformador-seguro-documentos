@@ -1,0 +1,32 @@
+PDF textual com tabelas
+→ extração dos dados
+→ validação e prévia
+→ arquivo Excel
+
+
+Princípios do projeto
+
+O aplicativo será construído considerando:
+
+processamento totalmente local;
+não alteração do arquivo original;
+validação do arquivo antes da leitura;
+limite de tamanho;
+tratamento de erros;
+exclusão de arquivos temporários;
+prévia antes da exportação;
+validação da qualidade dos dados;
+registro técnico sem conteúdo sensível;
+utilização somente de arquivos próprios ou autorizados.
+
+Roadmap
+
+Fase 1: estrutura do projeto e validação de PDF
+Fase 2: leitura e inspeção do PDF
+Fase 3: extração de tabelas
+Fase 4: prévia e validação
+Fase 5: exportação para Excel
+Fase 6: interface gráfica local
+Fase 7: controles adicionais de segurança
+Fase 8: Excel para PDF
+Fase 9: OCR para PDFs digitalizados
